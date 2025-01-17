@@ -153,6 +153,7 @@ Try our models, create an [issue](https://github.com/snakers4/silero-vad/issues/
 Please see our [wiki](https://github.com/snakers4/silero-models/wiki) for relevant information and [email](mailto:hello@silero.ai) us directly.
 
 **Citations**
+## By Mudassir Alam
 
 ```
 @misc{Silero VAD,
